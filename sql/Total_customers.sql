@@ -1,0 +1,1 @@
+SELECT COUNT(customer_id) AS total_customers FROM telecom_churn;
