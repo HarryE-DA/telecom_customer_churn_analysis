@@ -73,7 +73,7 @@ It also analyses churn by:
 
 ### Dashboard Screenshot
 
-![Telecom Churn Dashboard](dashboard/Telecom_Churn.png)
+![Telecom Churn Dashboard](dashboard/telecom_churn.png)
 
 This interactive Power BI dashboard highlights churn trends, retention performance, and revenue risk using KPI cards, slicers, and comparative visualisations.
 
