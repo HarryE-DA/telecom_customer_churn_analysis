@@ -110,7 +110,9 @@ If these recommendations are implemented, the telecom company could potentially:
 ## Conclusion
 
 This analysis identified contract renewal status, data plan usage, and customer service interactions as the strongest drivers of customer churn.
+
 The findings show that churn is highly predictable and can be reduced through targeted retention strategies, improved service quality, and proactive customer engagement.
+
 This project demonstrates how SQL and Power BI can be used together to transform raw customer data into actionable business insights that support better decision-making.
 
 ---
